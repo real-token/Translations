@@ -1,0 +1,11 @@
+{
+  "header": {
+    "title": "YAM"
+  },
+  "footer": {
+    "copyright": "© {{year}} RealT. All rights reserved."
+  },
+  "select": {
+    "noOption": "No options"
+  }
+}
