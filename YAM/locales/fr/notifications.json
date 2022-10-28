@@ -69,10 +69,10 @@
   },
   "createOfferInvalid": {
     "title": "Erreur",
-    "message": "Création d'Offre invalide. Assurez vous que vous etes "whitelisté" pour ce Token, que ce Token est valide et pas en période de blocage."
+    "message": "Création d'Offre invalide. Assurez vous que vous êtes whitelisté pour ce Token, que ce Token est valide et pas en période de blocage."
   },
   "buyOfferInvalid": {
     "title": "Erreur",
-    "message": "VOus ne pouvez acheter cette Offre. Assurez vous que vous etes "whitelité" pour ce Token, que le Token n'est pas en période de blocage et que votre solde de Token acheté est suffisant pour payer cette Offre."
+    "message": "VOus ne pouvez acheter cette Offre. Assurez vous que vous êtes whitelité pour ce Token, que le Token n'est pas en période de blocage et que votre solde de Token acheté est suffisant pour payer cette Offre."
   }
 }
