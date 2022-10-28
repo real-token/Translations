@@ -1,78 +1,78 @@
 {
   "userCopied": {
-    "title": "Copied 🎉",
-    "message": "Your address have been copied to clipboard."
+    "title": "Copié 🎉",
+    "message": "Votre adresse a été copiée dans le presse-papiers."
   },
   "usersNotFound": {
-    "title": "Error",
-    "message": "{{ usersNotFound }} users couldn't be retrieved. Check your RPC or refresh the table."
+    "title": "Erreur",
+    "message": "{{ usersNotFound }} l'utilisateur ne peut etre retrouvé. Vérifier votre RPC ou mettre à jour la table."
   },
   "createOfferLoading": {
-    "title": "Waiting",
-    "message": "Your transaction is being validated."
+    "title": "Patientez",
+    "message": "Votre transaction est en cours de validation."
   },
   "createOfferSuccess": {
-    "title": "Success",
-    "message": "Your transaction has been validated."
+    "title": "Réussit",
+    "message": "Votre transaction a été validée."
   },
   "createOfferError": {
-    "title": "Error",
-    "message": "Your transaction has been rejected."
+    "title": "Erreur",
+    "message": "Votre transaction a été rejetée."
   },
   "buyOfferLoading": {
-    "title": "Waiting",
-    "message": "Your transaction is being validated."
+    "title": "Patientez",
+    "message": "Votre transaction est en cours de validation."
   },
   "buyOfferSuccess": {
-    "title": "Success",
-    "message": "Your transaction has been validated."
+    "title": "Réussit",
+    "message": "Votre transaction a été validée."
   },
   "buyOfferError": {
-    "title": "Error",
-    "message": "Your transaction has been rejected."
+    "title": "Erreur",
+    "message": "Votre transaction a été rejetée."
   },
   "approveOfferLoading": {
-    "title": "Waiting",
-    "message": "Your transaction is being validated."
+    "title": "Patientez",
+    "message": "Votre transaction est en cours de validation."
   },
   "approveOfferSuccess": {
-    "title": "Success",
-    "message": "Your transaction has been validated."
+    "title": "Réussit",
+    "message": "Votre transaction a été validée."
   },
   "approveOfferError": {
-    "title": "Error",
-    "message": "Your transaction has been rejected."
+    "title": "Erreur",
+    "message": "Votre transaction a été rejetée."
   },
   "updateOfferLoading": {
-    "title": "Waiting",
-    "message": "Your transaction is being validated."
+    "title": "Patientez",
+    "message": "Votre transaction est en cours de validation."
   },
   "updateOfferSuccess": {
-    "title": "Success",
-    "message": "Your transaction has been validated."
+    "title": "Réussit",
+    "message": "Votre transaction a été validée."
   },
   "updateOfferError": {
-    "title": "Error",
-    "message": "Your transaction has been rejected."
+    "title": "Erreur",
+    "message": "Votre transaction a été rejetée."
   },
   "deleteOfferLoading": {
-    "title": "Waiting",
-    "message": "Your transaction is being validated."
+    "title": "Patientez",
+    "message": "Votre transaction est en cours de validation."
   },
   "deleteOfferSuccess": {
-    "title": "Success",
-    "message": "Your transaction has been validated."
+    "title": "Réussit",
+    "message": "Votre transaction a été validée."
   },
   "deleteOfferError": {
-    "title": "Error",
-    "message": "Your transaction has been rejected."
+    "title": "Erreur",
+    "message": "Votre transaction a été rejetée."
   },
   "createOfferInvalid": {
-    "title": "Error",
-    "message": "You can create this offer. Please make sure: You are whitelisted for the offer token, the offer token is whitelisted and not in locking periode, you have the offer token in your wallet."
+    "title": "Erreur",
+    "message": "Création d'Offre invalide. Assurez vous que vous etes "whitelisté" pour ce Token, que ce Token est valide et pas en période de blocage."
   },
   "buyOfferInvalid": {
-    "title": "Error",
-    "message": "You can not buy this offer. Please make sure: You are whitelisted for the offer token, the offer token is not in locking periode, you have enough buyer token balance in your wallet to pay the offer."
+    "title": "Erreur",
+    "message": "VOus ne pouvez acheter cette Offre. Assurez vous que vous etes "whitelité" pour ce Token, que le Token n'est pas en période de blocage et que votre solde de Token acheté est suffisant pour payer cette Offre."
   }
 }
