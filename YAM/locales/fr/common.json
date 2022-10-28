@@ -3,9 +3,9 @@
     "title": "YAM"
   },
   "footer": {
-    "copyright": "Â© {{year}} RealT. All rights reserved."
+    "copyright": "Â© {{year}} RealT. Tous droits réservés."
   },
   "select": {
-    "noOption": "No options"
+    "noOption": "Aucune option"
   }
 }
