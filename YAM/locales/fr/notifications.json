@@ -5,7 +5,7 @@
   },
   "usersNotFound": {
     "title": "Erreur",
-    "message": "{{ usersNotFound }} l'utilisateur ne peut etre retrouvé. Vérifier votre RPC ou mettre à jour la table."
+    "message": "{{ usersNotFound }} utilisateur ne peut etre retrouvé. Vérifier votre RPC ou mettre à jour la table."
   },
   "createOfferLoading": {
     "title": "Patientez",

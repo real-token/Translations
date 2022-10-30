@@ -1,7 +1,7 @@
 {
   "wallet": {
-    "control": "Connecter wallet",
-    "copy": "Copie address",
+    "control": "Connecter Wallet",
+    "copy": "Copie adresse",
     "viewOn": "Vue dans l'explorer",
     "disconnect": "Déconnecter",
     "network": "Réseau"
