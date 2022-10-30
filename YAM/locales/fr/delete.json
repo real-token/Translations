@@ -1,12 +1,12 @@
 {
   "table": {
     "market": "Marché",
-    "title": "RealToken YAM",
+    "title": "RealToken YAM (Bourse d'échange)",
     "offerId": "N° Offre",
     "offerTokenAddress": "Adresse Token vendu",
-    "offerTokenName": "Nom Token vendu",
+    "offerTokenName": "Token vendu",
     "buyerTokenAddress": "Adresse Token acheté",
-    "buyerTokenName": "Nom Token acheté",
+    "buyerTokenName": "Token acheté",
     "sellerAddress": "Adresse Vendeur",
     "price": "Prix",
     "amount": "Quantité",
@@ -15,9 +15,9 @@
   "subRow": {
     "offerId": "N° Offre",
     "offerTokenAddress": "Adresse Token vendu",
-    "offerTokenName": "Nom Token vendu",
+    "offerTokenName": "Token vendu",
     "buyerTokenAddress": "Adresse Token acheté",
-    "buyerTokenName": "Nom Token acheté",
+    "buyerTokenName": "Token acheté",
     "sellerAddress": "Adresse Vendeur",
     "price": "Prix",
     "amount": "Quantité",
