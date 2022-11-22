@@ -10,7 +10,9 @@
     "sellerAddress": "Seller Address",
     "price": "Price/token",
     "amount": "Quantity",
-    "address": "Address"
+    "address": "Address",
+    "actionEdit": "Edit",
+    "actionDelete": "Delete"
   },
   "subRow": {
     "offerId": "Offer ID",

@@ -10,7 +10,9 @@
     "sellerAddress": "Adresse du vendeur",
     "price": "Prix/Jeton",
     "amount": "Quantité",
-    "address": "Adresse"
+    "address": "Adresse",
+    "actionEdit": "Edit",
+    "actionDelete": "Delete"
   },
   "subRow": {
     "offerId": "ID de l'offre",

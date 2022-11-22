@@ -3,7 +3,6 @@
     "title": "Connect wallet"
   },
   "sell": {
-    "title": "Create Offer",
     "offerTokenAddress": "Offer Token Address",
     "offerTokenName": "Offer Token Name",
     "buyerTokenAddress": "Buyer Token Address",
