@@ -12,7 +12,9 @@
     "amount": "Amount",
     "address": "Address",
     "actionEdit": "Edit",
-    "actionDelete": "Delete"
+    "actionDelete": "Delete",
+    "buy": "Buy"
+
   },
   "subRow": {
     "offerId": "Offer ID",
@@ -22,7 +24,7 @@
     "buyerTokenName": "Buyer Token",
     "sellerAddress": "Seller Address",
     "price": "Price",
-    "initialPrice": "Initial Price",
+    "officialPrice": "Official price (RealT)",
     "offerPrice": "Offer Price",
     "priceDifference": "Price Difference",
     "amount": "Amount",

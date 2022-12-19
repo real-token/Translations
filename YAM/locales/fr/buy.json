@@ -11,8 +11,10 @@
     "price": "Prix/Jeton",
     "amount": "Quantité",
     "address": "Adresse",
-    "actionEdit": "Edit",
-    "actionDelete": "Delete"
+    "actionEdit": "Editer",
+    "actionDelete": "Supprimer",
+    "buy": "Acheter"
+
   },
   "subRow": {
     "offerId": "ID de l'offre",
@@ -22,7 +24,7 @@
     "buyerTokenName": "Jeton d'achat",
     "sellerAddress": "Adresse du vendeur",
     "price": "Prix/Jeton",
-    "initialPrice": "Prix initial (RealT)",
+    "officialPrice": "Prix officiel (RealT)",
     "offerPrice": "Prix proposé",
     "priceDifference": "Différence de prix",
     "amount": "Quantité",
